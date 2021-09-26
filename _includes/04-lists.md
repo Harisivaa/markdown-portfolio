@@ -1,3 +1,5 @@
-*banana
-*sugar
-*tea
+<ol>
+    <li>This</li>
+    <li>Is an</li>
+    <li>Ordered list</li>
+</ol>
